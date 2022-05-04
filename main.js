@@ -7,10 +7,10 @@ var birdimg= new Image();
 var hinhnenchinh=new Image();
 var ongtren= new Image();
 var ongduoi=new Image();
-birdimg.src="images/bird.png";
-hinhnenchinh.src="images/nenchinh.png";
-ongtren.src="images/ongtren.png";
-ongduoi.src="images/ongduoi.png";
+birdimg.src="bird.png";
+hinhnenchinh.src="nenchinh.png";
+ongtren.src="ongtren.png";
+ongduoi.src="ongduoi.png";
 // đầu tiên là nạp các hình vô nha các bạn :)
 // bước 2 là tạo 1 số biến cần thiết
 
